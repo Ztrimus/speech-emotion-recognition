@@ -1,4 +1,17 @@
-# Speech Emotion Recognition
+Speech Emotion Recognition
+==========================
+
+Project source can be downloaded from https://github.com/SBZed/speech-emotion-recognition.git
+
+Author & Contributor List
+--------------------------
+Saurabh Zinjad
+
+Amey Bhilegaonkar
+
+All other known bugs and fixes can ne sent to zinjadsaurabh1997@gmail.com.
+
+Reported bugs/fixes will be submitted to correction.
 
 ## Basic Idea :
 Our machine learning model tries to detect and predict various emotion in speech signal or human audio by detecting different features and component of speech affected by human emotion. Emotion detection from the speech is a relatively new field of research. Here, we are trying a new approach or ways to contribute towards emotion recognition research.
@@ -7,7 +20,26 @@ Our machine learning model tries to detect and predict various emotion in speech
 To get familiar and comfortable with project concept and outcomes please refer to [this presentation](https://prezi.com/view/UmLEHdSkpPpiZUGSQ71k/).
 
 ## Video Explanation [YouTube] :
-If you want an explanation for the project [watch this video](https://www.youtube.com/watch?v=yvxpxcncSGs&t=41s).
+If you want an explanation for the project [watch this video](https://www.youtube.com/watch?v=yvxpxcncSGs&t).
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yvxpxcncSGs&t
+" target="_blank"><img src="https://i9.ytimg.com/vi/yvxpxcncSGs/maxresdefault.jpg?sqp=CMy_iOgF&rs=AOn4CLAKTUrADni1NnBRo6rqR3A7sEXdVA&time=1560420410366" 
+alt="IMAGE ALT TEXT HERE" width="240" height="130" border="10" /></a>
 
 ## Want to see result quickly without any installation :
-1. Go to this [google drive link]().
+1. Go to this [google drive link](https://drive.google.com/open?id=1vVZ0uq5Uwd27RsODuyabuJePtDcCsbr9).
+2. Open **[speech_emotion_recognition.ipynb](https://colab.research.google.com/drive/1sfa3fN9W0nExpGwIwaX36arm1xYkH2PN)** notebook. it's main code for project.
+3. For live demonstration or detecting your Speech emotion, Open **[live_demo_speech_emotion_recognition.ipynb](https://colab.research.google.com/drive/1LXVTlNvr8WJbaBnVbw_NbInV8wTrbOM1)** notebook. Just keep two things in mind. First, You need to record your audio in very silent room without any noise.And secondly, Model is not perfect, Show the great result for Disgust, fear, Anger, Sad. But shows poor result for surprise, Happy.
+
+## How to run file :
+To implement this project on your Machine
+1. Clone this repository.
+2. Go to terminal and type **```pip install requirements.txt```**.
+3. Then open ./Code/main_speech_emotion_recognition.ipynb and run it.
+
+## Bugs :
+
+## Limitation and Further growth : 
+
+## Any suggestion or Correction will be Greatful, Please do that :
+Mail me on "zinjadsaurabh1997@gmail.com" with subject "speech emotion recognition Suggestion". I just want this repository as useful as possiable and as user-friendly as possible.
