@@ -34,7 +34,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="130" border="10" /></a>
 ## How to run file :
 To implement this project on your Machine
 1. Clone this repository.
-2. Go to terminal and type `pip install requirements.txt`.
+2. Go to terminal and type `pip install -r requirements.txt`.
 3. Then open ./Code/main_speech_emotion_recognition.ipynb and run it.
 
 ## Bugs :
