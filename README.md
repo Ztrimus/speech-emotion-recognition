@@ -22,10 +22,6 @@ To get familiar and comfortable with project concept and outcomes please refer t
 ## Video Explanation [YouTube] :
 If you want an explanation for the project [watch this video](https://www.youtube.com/watch?v=yvxpxcncSGs&t).
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=yvxpxcncSGs&t
-" target="_blank"><img src="https://i9.ytimg.com/vi/yvxpxcncSGs/maxresdefault.jpg?sqp=CMy_iOgF&rs=AOn4CLAKTUrADni1NnBRo6rqR3A7sEXdVA&time=1560420410366" 
-alt="IMAGE ALT TEXT HERE" width="240" height="130" border="10" /></a>
-
 ## Want to see result quickly without any installation :
 1. Go to this **[google drive link](https://drive.google.com/open?id=1vVZ0uq5Uwd27RsODuyabuJePtDcCsbr9).**
 2. Open **[speech_emotion_recognition.ipynb](https://colab.research.google.com/drive/1sfa3fN9W0nExpGwIwaX36arm1xYkH2PN)** notebook. it's main code for project.
@@ -40,3 +36,5 @@ To implement this project on your Machine
 ## Bugs :
 
 ## Limitation and Further growth : 
+1. Need to record audio in clear and silent environment.
+2. Dataset is not accurate and prominant. Even, human ear can't detect accurate emotion for some audios. **Need Promising dataset.**
