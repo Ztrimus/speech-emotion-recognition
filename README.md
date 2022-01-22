@@ -7,8 +7,6 @@ Author & Contributor List
 --------------------------
 Saurabh Zinjad
 
-Amey Bhilegaonkar
-
 All other known bugs and fixes can be sent to *"zinjadsaurabh1997@gmail.com"* with subject *"speech emotion recognition Suggestion"*.
 
 Reported bugs/fixes will be submitted to correction.
